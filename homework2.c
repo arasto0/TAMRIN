@@ -3,6 +3,7 @@
 int main() {
     printf("ASCII values for the characters in the name Arastoo Setayeshzadeh:\n");
     printf("------------------------------\n");
+    printf("First name :");
     printf("|    A      |     %d       |", 'A');
     printf("|    r      |     %d       |", 'r');
     printf("|    a      |     %d       |", 'a');
@@ -11,6 +12,7 @@ int main() {
     printf("|    o      |     %d       |", 'o');
     printf("|    o      |     %d       |", 'o');
     printf("|            |              |\n");
+    printf("Last name :");
     printf("|    S      |     %d       |", 'S');
     printf("|    e      |     %d       |", 'e');
     printf("|    t      |     %d       |", 't');
